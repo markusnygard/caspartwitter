@@ -9,7 +9,7 @@ date_default_timezone_set('Europe/Warsaw');
 $user = "root";
 
 //Hasło
-$pass = "dupcia1";
+$pass = "*";
 
 //Nazwa bazy danych
 $database = "caspartwitter";
